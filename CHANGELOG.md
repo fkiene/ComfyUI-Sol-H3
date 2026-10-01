@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Recognizes Flow's canonical equal-grid exact-prefix control in Spectrum backend history, with geometry, zero-measure, semantic-digest and inherited-owner validation.
+- Keeps stale or malformed contracts opaque and preserves request-owned attention completion receipts, dense warmup and numerical-backend transitions.
+- Restores forecast eligibility for that control; GPU timing and rendered audiovisual quality require runtime qualification.
+
 ## v0.1.6 — 2026-09-22
 
 - Completes the production Sol-H3 side of the heterogeneous exact-prefix progressive stack.
